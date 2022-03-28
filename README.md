@@ -1,6 +1,5 @@
-<h1 align="center">VBS Encode and Decode Scripts</h1>
+<h1 align="center">Official Microsoft VBE Scripts 2013</h1>
 
-## Official Microsoft VBE Scripts 2013
 * these VBS files are the samples for creating and decoding VBE files.
 * many alternative python scripts exist which are currently maintained.
 * deprecated for historical reasons has been removed from the microsoft gallery.
